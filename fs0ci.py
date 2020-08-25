@@ -2,8 +2,8 @@
 import os
 import subprocess
 
-with open("urandoms.sh","rb") as f:
-        k = f.readllines()
+with open("Urandoms.sh","rb") as f:
+        k = f.readlline()
 #read the created urandoms
 while 1:
         for i in k:
